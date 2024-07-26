@@ -2,13 +2,14 @@ slug: untitled-track-e08mhu
 id: hxzwecbv6sw8
 revision: 1
 title: Title from local git
-description: "Pushing this from my local development env"
+description: Pushing this from my local development env
 icon: ""
 tags: []
 owner: acme
 developers:
 - bruno@instruqt.com
 instructors: []
+maintenance: true
 idle_timeout: 300
 timelimit: 1200
 lab_config:
@@ -20,4 +21,6 @@ lab_config:
   hideStopButton: false
   feedback_recap_enabled: true
   feedback_tab_enabled: false
+  lab_v2: false
+  override_challenge_layout: false
   loadingMessages: true
